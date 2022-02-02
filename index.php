@@ -31,7 +31,5 @@
         }
     }else{
         echo "No existe el controlador";
-        print_r($ruta);
-        print_r("no");
     }
 ?>
